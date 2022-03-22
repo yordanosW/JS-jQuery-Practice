@@ -1,3 +1,5 @@
 Instructions:
 Use jQuery to remove the existing "center" class, and replace it with the "large" class.
-Expected return: The text "jQuery in action" should move to the left-hand side of the screen, be larger, and the font color should be black.
+
+Expected return: 
+The text "jQuery in action" should move to the left-hand side of the screen, be larger, and the font color should be black.
