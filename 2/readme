@@ -1,5 +1,5 @@
 Instructions:
-
 Using jQuery, set the value of the input text field. 
 
-Expected return: when the button is pressed, a string should populate inside of the text input field.
+Expected return: 
+When the button is pressed, a string should populate inside of the text input field.
