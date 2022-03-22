@@ -1,2 +1,4 @@
 Instructions:
 Create a div using jQuery with style tag.
+
+Expected return: when a button is pressed, a new div should generate on the page. The div should contain some simple content (such as a sentence or small image) so that it can be easily seen.
